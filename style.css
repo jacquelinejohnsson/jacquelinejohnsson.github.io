@@ -30,9 +30,3 @@ a:hover {
   margin-right: 50%;
   width: 50%;
 }
-
-#grad {
-  height: 100px
-  padding: 0px;
-  background-image: linear-gradient(180, rgba(255,0,0,1), rgba(255, 0, 0, 0);
-}
