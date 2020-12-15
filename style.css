@@ -4,12 +4,23 @@
   font-weight: Regular;
 }
 
-.header {
+header {
   margin-top: 5rem;
   margin-left: 3rem;
   transform: rotate(3deg);
   padding: 0 20px;
   position: fixed;
+}
+
+.about {
+  padding: 0 20px;
+}
+
+main {
+  display: block;
+  margin-left: 35%;
+  margin-right: 50%;
+  width: 50%;
 }
 
 a {
@@ -24,9 +35,8 @@ a:hover {
   border-radius: 100px;
 }
 
-.inquiries {
-  display: block;
-  margin-left: 50%;
-  margin-right: 50%;
-  width: 50%;
+p {
+  font-family: standard;
+  font-size: 25px;
+  color: purple;
 }
