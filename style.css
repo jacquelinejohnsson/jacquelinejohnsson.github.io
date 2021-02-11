@@ -12,16 +12,16 @@ body {
 
 p {
 	color: khaki;
-	font-family: Standard, sans-serif;
-	font-size: 12pt;
+	font-family: standard;
+	font-size: 8pt;
 	font-weight: normal;
 }
 
 h1 {
 	font-weight: bold;
 	color: khaki;
-	font-family: Standard, sans-serif;
-	font-size: 12pt;
+	font-family: standard;
+	font-size: 8pt;
 }
 
 /* Slideshow container */
