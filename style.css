@@ -1,6 +1,28 @@
 
+@font-face {
+  font-family: standard;
+  src: url(standard-book.woff);
+}
 
 * {box-sizing:border-box}
+
+body {
+	background-color: darkslategray;
+}
+
+p {
+	color: khaki;
+	font-family: Standard, sans-serif;
+	font-size: 12pt;
+	font-weight: normal;
+}
+
+h1 {
+	font-weight: bold;
+	color: khaki;
+	font-family: Standard, sans-serif;
+	font-size: 12pt;
+}
 
 /* Slideshow container */
 .slideshow-container {
@@ -91,6 +113,6 @@
 }
 
 @keyframes fade {
-  from {opacity: .4}
+  from {opacity: 1}
   to {opacity: 1}
 }
