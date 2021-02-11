@@ -24,6 +24,30 @@ h1 {
 	font-size: 8pt;
 }
 
+/* unvisited link */
+a:link {
+  color: khaki;
+	text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: khaki;
+	text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: khaki;
+	text-decoration: none;
+}
+
+/* selected link */
+a:active {
+  color: khaki;
+	text-decoration: none;
+}
+
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
