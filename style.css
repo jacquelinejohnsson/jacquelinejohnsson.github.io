@@ -6,7 +6,7 @@
 
 
 	body {
-		background-color: darkslategray;
+		background-color: black;
 		padding: 5px 10px 20px 10px;
 		width: 60%
 	}
@@ -14,32 +14,26 @@
 
 	/*type*/
 	p {
-		color: khaki;
+		color: white;
 		font-family: standard;
 		font-size: 8pt;
 		font-weight: normal;
 	}
-	h1 {
-		font-weight: bold;
-		color: khaki;
-		font-family: standard;
-		font-size: 12pt;
-	}
 
 	a:link {
-	  color: khaki;
+	  color: white;
 		text-decoration: none;
 	}
 	a:visited {
-	  color: khaki;
+	  color: red;
 		text-decoration: none;
 	}
 	a:hover {
-	  color: khaki;
+	  color: red;
 		text-decoration: none;
 	}
 	a:active {
-	  color: khaki;
+	  color: white;
 		text-decoration: none;
 	}
 
