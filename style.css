@@ -23,6 +23,7 @@
     font-family: standard;
     font-size: 10pt;
     font-style: italic;
+    text-transform: uppercase;
   }
 
 a { font-family: standard;}
