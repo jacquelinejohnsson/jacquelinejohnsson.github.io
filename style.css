@@ -19,11 +19,11 @@
 		font-weight: normal;
 	}
 
-h1 {
-font-family: standard;
-  font-size: 10pt;
-  text-transform: uppercase;
-}
+  h1 {
+    font-family: standard;
+    font-size: 10pt;
+    font-style: italic;
+  }
 
 a { font-family: standard;}
 
